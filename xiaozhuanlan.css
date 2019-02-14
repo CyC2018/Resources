@@ -1,0 +1,87 @@
+pre {
+    box-shadow: 7px 9px 10px #aaa !important;
+}
+
+.markdown.topic-body pre code ul,
+.markdown.topic-body pre code ol,
+#preview-panel pre code ul,
+#preview-panel pre code ol {
+    margin: 0px 0px 0 0px !important;
+    font-size: 14px;
+}
+
+.markdown.topic-body pre ul li,
+.markdown.topic-body pre ol li,
+#preview-panel pre ul li,
+#preview-panel pre ol li {
+    font-size: 14px !important;
+}
+
+.hljs-keyword,
+.method,
+.hljs-list .hljs-title,
+.clojure .hljs-built_in,
+.nginx .hljs-title,
+.hljs-tag .hljs-title,
+.setting .hljs-value,
+.hljs-winutils,
+.tex .hljs-command,
+.http .hljs-title,
+.hljs-request,
+.hljs-status {
+    color: #1f7dcd !important;
+}
+
+.hljs-title,
+.hljs-section,
+.hljs-selector-id {
+    color: #c13737 !important;
+}
+
+.markdown a:link,
+.markdown a:visited {
+    color: #337ab7 !important;
+    font-weight: bold !important;
+}
+
+.markdown.topic-body h1,
+#preview-panel h1 {
+    margin: 20px 0 20px !important;
+}
+
+#section0,
+#section1,
+#section2,
+#section3,
+#section4,
+#section41,
+#section42,
+#section43,
+#section44,
+#section45 {
+    font-weight: bold !important;
+}
+
+h1 {
+    padding-bottom: .3em;
+    font-size: 2.25em !important;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    font-weight: bold !important;
+    line-height: 1.4;
+    cursor: text;
+}
+
+.markdown.topic-body li,
+#preview-panel li {
+    margin-bottom: 5px !important;
+}
