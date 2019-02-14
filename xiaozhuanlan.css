@@ -86,3 +86,10 @@ pre code ul {
     list-style: decimal;
     background-color: #fafafa;
 }
+
+.markdown.topic-body pre.highlight,
+.markdown.topic-body pre,
+#preview-panel pre.highlight,
+#preview-panel pre {
+    background-color: #fafafa;
+}
