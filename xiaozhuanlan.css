@@ -66,6 +66,7 @@ h6 {
     font-weight: bold !important;
     line-height: 1.4;
     cursor: text;
+    text-shadow: 0.1em 0.2em 0.05em #ddd !important;
 }
 
 .markdown.topic-body li,
