@@ -56,6 +56,18 @@ h1 {
     border-bottom: 1px solid #eee;
 }
 
+#section1,
+#section2,
+#section3,
+#section4,
+#section5,
+#section6,
+#section7,
+#section8,
+#section9 {
+    font-weight: bold !important;
+}
+
 h1,
 h2,
 h3,
@@ -66,7 +78,7 @@ h6 {
     font-weight: bold !important;
     line-height: 1.4;
     cursor: text;
-    text-shadow: 0.1em 0.2em 0.05em #ddd !important;
+    text-shadow: 0.1em 0.1em 0.05em #ddd !important;
 }
 
 .markdown.topic-body li,
