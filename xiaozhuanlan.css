@@ -49,19 +49,6 @@ pre {
     margin: 20px 0 20px !important;
 }
 
-#section0,
-#section1,
-#section2,
-#section3,
-#section4,
-#section41,
-#section42,
-#section43,
-#section44,
-#section45 {
-    font-weight: bold !important;
-}
-
 h1 {
     padding-bottom: .3em;
     font-size: 2.25em !important;
@@ -84,4 +71,17 @@ h6 {
 .markdown.topic-body li,
 #preview-panel li {
     margin-bottom: 5px !important;
+}
+
+.markdown.topic-body pre.highlight,
+.markdown.topic-body pre,
+#preview-panel pre.highlight,
+#preview-panel pre {
+    margin-bottom: 40px;
+}
+
+.hljs ul,
+pre code ul {
+    list-style: decimal;
+    background-color: #fafafa;
 }
