@@ -2,7 +2,7 @@ pre,
 .markdown.topic-body blockquote,
 #preview-panel blockquote,
 img.xzl-topic-show,
-#xzl-topic-content img {
+.topic-body img {
     box-shadow: 7px 9px 10px #aaa !important;
 }
 
