@@ -4,6 +4,7 @@ pre,
 img.xzl-topic-show,
 .topic-body img {
     box-shadow: 7px 9px 10px #aaa !important;
+    margin-bottom: 30px !important;
 }
 
 .markdown.topic-body pre code ul,
