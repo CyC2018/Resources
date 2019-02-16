@@ -111,3 +111,7 @@ pre code ul {
 #preview-panel pre {
     background-color: #fafafa;
 }
+
+.markdown strong {
+    color: #555 !important;
+}
