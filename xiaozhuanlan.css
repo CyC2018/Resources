@@ -3,7 +3,7 @@ pre,
 #preview-panel blockquote,
 img.xzl-topic-show,
 .topic-body img {
-    box-shadow: 7px 9px 10px #aaa !important;
+    box-shadow: 2px 1px 20px 2px #aaa;
     margin-bottom: 30px !important;
 }
 
