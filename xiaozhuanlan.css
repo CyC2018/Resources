@@ -116,3 +116,7 @@ pre code ul {
 .markdown strong {
     color: #555 !important;
 }
+
+table {
+    width: 100% !important;
+}
