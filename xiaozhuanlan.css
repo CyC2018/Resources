@@ -120,3 +120,8 @@ pre code ul {
 table {
     width: 100% !important;
 }
+
+.markdown.topic-body p img {
+	padding-bottom: 0px !important;
+	padding-top: 0px !important;
+}
